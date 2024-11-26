@@ -47,9 +47,8 @@ nav {
     display:flex;
     flex-direction: row;
     justify-content: space-between;
-    margin:60px 60px 0px 60px;
-    padding-bottom: 40px;
-    font-size:1.2rem;
+    margin:80px 80px 0px 80px;
+    font-size:1.35rem;
 }
 
 ul {

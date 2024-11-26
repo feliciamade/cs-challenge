@@ -22,15 +22,20 @@ align-items: center;
 p {
     line-height: 1.6;
     font-size:1.4rem;
+    font-weight: 300;
+    
 }
 
+#home p {
+    color:rgb(93, 94, 118);
+}
 h1 {
     font-size: 3rem;
-    font-weight: 500;
+    font-weight: 400;
 }
 
 h3 {
-    font-weight: 500;
+    font-weight: 400;
 }
 
 h1,p {
@@ -58,12 +63,14 @@ ul {
 }
 
 ul i{
-    color:rgb(255, 105, 138);
+    color:rgb(255, 105, 163);
 }
 
 li {
 margin-right: 20px;
 list-style: none;
+color:rgb(93, 94, 118);
+font-weight: 300;
 }
 
 
